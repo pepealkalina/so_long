@@ -1,0 +1,1 @@
+[![preina-g's 42 Libft Score](https://badge42.vercel.app/api/v2/cl8ys36dg00350gl8f28t0eiy/project/2793554)](https://github.com/JaeSeoKim/badge42)
